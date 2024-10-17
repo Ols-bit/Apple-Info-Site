@@ -1,0 +1,47 @@
+<head>
+    <h1>Apple info website</h1>
+</head>    
+
+<body>
+    
+    
+<p><b>This list below shows the different types of Apple Products (2024) </b></p>
+<ul>
+    <li>iPhone</li>
+    <li>iMac</li>
+    <li>iPad</li>
+    <li>iPod</li>
+    <li>Watch</li>
+    <li>Airpods</li>
+    <li>Airtag</li>
+    <li>
+        <h2><a href="https://apple.com/visionpro">Vision Pro</a></h2>
+        <img src="https://www.ediiie.com/blog/assets/admin/uploads/apple-vision-pro-features.jpg">
+        <p>description.....</p>
+    </li>
+    <li>Apple TV</li>
+</ul>
+
+<p>This list shows the various accessories that Apple Products can go with.</p>
+
+<ul>
+    <li>Apple Pencil</li>
+    <li>Magic Mouse</li>
+    <li>Magic keyboard</li>
+    <li>USB-C power adapter</li>
+    <li>Thunderbolt adaptors</li>
+    <li>VESA Mount Adapters</li>
+</ul>
+
+<p>This list shows the current software and services that Apple run.</p>
+
+<ul>
+    <li>Apple TV</li>
+    <li>Apple Store</li>
+    <li>Apple Arcade</li>
+    <li>Apple Music</li>
+    <li>Apple Card</li>
+    <li>Apple Configurator</li>
+    <li>Apple Fitness+</li>
+    <li>Apple News</li>
+</ul>
