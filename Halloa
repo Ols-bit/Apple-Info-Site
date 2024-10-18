@@ -7,7 +7,12 @@
     
 <p><b>This list below shows the different types of Apple Products (2024) </b></p>
 <ul>
-    <li>iPhone</li>
+    <li>
+        <h2><a href= "https://www.apple.com/iphone">iPhone</a></h2>
+        <img src="https://www.apple.com/iphone"
+        <p> The Apple iPhone serves as a smartphone.</p>
+
+</li>
     <li>iMac</li>
     <li>iPad</li>
     <li>iPod</li>
@@ -17,7 +22,7 @@
     <li>
         <h2><a href="https://apple.com/visionpro">Vision Pro</a></h2>
         <img src="https://www.ediiie.com/blog/assets/admin/uploads/apple-vision-pro-features.jpg">
-        <p>description.....</p>
+        <p>The Apple Vision Pro was released in 2024.</p>
     </li>
     <li>Apple TV</li>
 </ul>
